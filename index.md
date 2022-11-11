@@ -32,7 +32,7 @@ To get started with creating a site, just click "[use this template]"!
 
 ---
 title: Home2
-layout: home2
+layout: home
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses thetheme. You can easily set the created site to be published onfile explains how to do that, along with other details.

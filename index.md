@@ -7,6 +7,8 @@ This tutorial provides support for the Laser Beam Shaping Application that opera
 
 To operate, it requires a MATLAB R2020a or newer with an active Image Acquisition Toolbox and optional Add-ons that enable MATLAB – camera communication. 
 
+The application is divided into two sections. The left section stands as an operating/control one, allowing the user to see what features are currently implemented and what kind of hologram is currently displayed. The right section is responsible for the modification of hologram parameters as well as for operating the beam correction algorithms. 
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.

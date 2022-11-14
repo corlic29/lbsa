@@ -1,7 +1,11 @@
 ---
-title: Home
+title: Introduction
 layout: home
 ---
+
+This tutorial provides support for the Laser Beam Shaping Application that operates the Spatial Light Modulator (SLM) together with the external camera, to shape the laser beam. The application works as a complex unit that allows the user to use all of its features within a single application, run through MATLAB software.
+
+To operate, it requires a MATLAB R2020a or newer with an active Image Acquisition Toolbox and optional Add-ons that enable MATLAB – camera communication. 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

@@ -9,6 +9,7 @@ To operate, it requires a MATLAB R2020a or newer with an active Image Acquisitio
 
 The application is divided into two sections. The left section stands as an operating/control one, allowing the user to see what features are currently implemented and what kind of hologram is currently displayed. The right section is responsible for the modification of hologram parameters as well as for operating the beam correction algorithms. 
 
+[App_overview]
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
@@ -27,7 +28,7 @@ To get started with creating a site, just click "[use this template]"!
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
+[App_overview]= assets/images/App_overview.png
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md

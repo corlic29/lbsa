@@ -11,4 +11,6 @@ The application is divided into two sections. The left section stands as an oper
 
 <img src="/docs/App_overview.png" alt="Alt text" title="Optional title">
 
-![](/docs/App_overview.png)
+![](./docs/App_overview.png)
+![](./docs/App_overview.PNG)
+![](/docs/App_overview.PNG)

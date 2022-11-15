@@ -9,5 +9,8 @@ The properly detected SLM should be indicated by the green diode, followed by th
 
 ![](/assets/images/Control.png)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53095764/201114374-12507430-5f3a-443c-bce1-99e3c15d83f6.png" width="500">
+</p>      
 
 ----

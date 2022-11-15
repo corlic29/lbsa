@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: home
+nav_order: 1
 ---
 
 This tutorial provides support for the Laser Beam Shaping Application that operates the Spatial Light Modulator (SLM) together with the external camera, to shape the laser beam. The application works as a complex unit that allows the user to use all of its features within a single application, run through MATLAB software.

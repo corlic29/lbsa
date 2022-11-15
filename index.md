@@ -9,6 +9,6 @@ To operate, it requires a MATLAB R2020a or newer with an active Image Acquisitio
 
 The application is divided into two sections. The left section stands as an operating/control one, allowing the user to see what features are currently implemented and what kind of hologram is currently displayed. The right section is responsible for the modification of hologram parameters as well as for operating the beam correction algorithms. 
 
-<img src="lbsa/assets/image/App_overview.png" alt="Alt text" title="Optional title">
+<img src="/docs/App_overview.png" alt="Alt text" title="Optional title">
 
 ![](/docs/App_overview.png)

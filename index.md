@@ -11,5 +11,5 @@ The application is divided into two sections. The left section stands as an oper
 
 
 
-![](./docs/App_overview.png)
+![](./assets/image/App_overview.png)
 

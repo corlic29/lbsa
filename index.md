@@ -11,4 +11,4 @@ The application is divided into two sections. The left section stands as an oper
 
 <img src="lbsa/assets/image/App_overview.png" alt="Alt text" title="Optional title">
 
-![](/lbsa/assets/image/App_overview.png)
+![](/docs/App_overview.png)

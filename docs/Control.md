@@ -1,7 +1,7 @@
 ---
 title: Control
 layout: default
-has children: true
+has_children: true
 nav_order: 2
 ---
 

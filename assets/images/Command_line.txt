@@ -1,0 +1,7 @@
+Image acquisition toolbox available
+No devices were detected for the 'gige' adaptor. For troubleshooting device detection issues, click here.
+No devices were detected for the 'pointgrey' adaptor. For troubleshooting device detection issues, click here.
+Detected cameras: 
+gentl
+winvideo
+Detected SLMs: 1 Resolution: 1920x1080

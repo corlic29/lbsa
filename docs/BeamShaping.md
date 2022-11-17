@@ -1,8 +1,8 @@
 ---
-title: Control
+title: Beam shaping
 layout: default
+nav_order: 3
 has_children: true
-nav_order: 2
 ---
 
 The properly detected SLM should be indicated by the green diode, followed by the resolution of an SLM, as well as the label _Connected_ beneath it. The push button _Create_ serves as a tool, to re-check if SLM is connected/disconnected. Additionally, the list box provides an option to select the available camera.
@@ -13,11 +13,5 @@ The toggle button _Auto update_ switches between auto/manual mode. By default, t
 
 SLM Screen provides insights into the structure of the hologram currently displayed on the SLM. This will also remain active, even if the SLM is not connected, allowing to use of the LBSA independently, as a hologram designing software.
 
-
-![](./assets/images/Control.PNG)
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/53095764/201114374-12507430-5f3a-443c-bce1-99e3c15d83f6.png" width="500">
-</p>      
 
 ----

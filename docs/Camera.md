@@ -1,7 +1,7 @@
 ---
-title: Control
+title: Camera
 layout: default
-has_children: true
+parent: Control
 nav_order: 2
 ---
 

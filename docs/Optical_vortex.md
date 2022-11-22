@@ -13,7 +13,7 @@ nav_order: 2
 The function generates an optical vortex with a defined topological charge (negative or positive integer value). 
 The exemplary vortex phase map of topological charge m=1 is presented below:
 
-![](/lbsa/assets/images/Vortex.png)
+![](/lbsa/assets/images/Vortex.bmp)
  
 
 

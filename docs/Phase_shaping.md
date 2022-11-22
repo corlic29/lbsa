@@ -3,6 +3,7 @@ title: Phase shaping & transformation
 layout: default
 parent: Beam shaping
 nav_order: 2
+has_children: true
 ---
 
 Phase shaping and Transformation tab possess most of the built-in laser beam shaping functions. 

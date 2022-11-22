@@ -13,5 +13,5 @@ The toggle button `Auto update` switches between auto/manual mode. By default, t
 
 SLM Screen provides insights into the structure of the hologram currently displayed on the SLM. This will also remain active, even if the SLM is not connected, allowing to use the LBSA independently, as a hologram designing software. To do so, the user can modify the SLM resolution to control the resolution of the hologram that will be created. 
    
-![](./assets/images/Control.png)
+![](/lbsa/assets/images/Control.png)
 ----

@@ -3,7 +3,6 @@ title: Gerchberg-Saxton Correction
 layout: default
 parent: Beam shaping
 nav_order: 3
-has_children: true
 ---
 ##### [](#header-4)Gerchberg-Saxton Correction
 

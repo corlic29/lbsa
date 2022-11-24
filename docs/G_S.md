@@ -49,6 +49,7 @@ However, the user will have to use the `optical vortex`, `blazed grating` and `a
 10.  Application will calculate the size of the matrix (edit field `Padding [px]`), required for simulation. This size depends on the distance between two vortices produced by the proposed blazed gratings. 
 
 If the size of the matrix will exceed 11000, the whole procedure may be time-consuming. Therefore it is suggested to keep it below 11000. One may reduce this number by reducing further reducing the aperture and starting again from step no. 6. 
+
 {:style="counter-reset:none"}
 11.  If all parameters are properly defined, the panel should resemble the example below:
 

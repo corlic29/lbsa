@@ -4,6 +4,7 @@ layout: default
 parent: Beam shaping
 nav_order: 1
 ---
+## [](#header-2)External hologram
 
 The `External hologram` is the first tab available in the Design section. 
 The role of the features existing under this tab is to provide a way to import external holograms, 

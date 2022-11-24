@@ -6,6 +6,7 @@ grand_parent: Beam shaping
 nav_order: 3
 
 ---
+## [](#header-2)Blazed and sinusoidal grating
 
 This subsection consists of two functions: 'blazed' and 'sinusoidal' phase grating. 
 The subsection allows choosing between these two since they cannot exist together by default. 

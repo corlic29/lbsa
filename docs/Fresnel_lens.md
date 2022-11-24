@@ -6,6 +6,7 @@ grand_parent: Beam shaping
 nav_order: 1
 
 ---
+## [](#header-2)Fresnel lens
 
 ![](/lbsa/assets/images/Fresnel_subsection.png)
 

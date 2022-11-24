@@ -6,6 +6,7 @@ grand_parent: Beam shaping
 nav_order: 2
 
 ---
+## [](#header-2)Optical vortex
 
 ![](/lbsa/assets/images/Optical_vortex_subsection.png)
 

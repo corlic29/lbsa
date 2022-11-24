@@ -6,9 +6,10 @@ grand_parent: Beam shaping
 nav_order: 4
 
 ---
+## [](#header-2)Phase shift
 
 This function is responsible for the generation of a constant phase shift (plane wave). 
-User can specify the phase shift amount in degrees and the final phase shift 
+Users can specify the phase shift amount in degrees and the final phase shift 
 is simultaneously represented in both degrees and radians ('x' π). 
 
 ![](/lbsa/assets/images/Phase_shift.png)

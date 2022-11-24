@@ -4,6 +4,7 @@ layout: default
 parent: Control
 nav_order: 1
 ---
+## [](#header-2)SLM
 
 The properly detected SLM should be indicated by the green diode, followed by the resolution of an SLM, as well as the label `Connected` beneath it. The push button `Create` serves as a tool, to re-check if SLM is connected/disconnected. Additionally, the list box provides an option to select the available camera.
 

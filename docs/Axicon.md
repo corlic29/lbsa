@@ -6,6 +6,7 @@ grand_parent: Beam shaping
 nav_order: 3
 
 ---
+## [](#header-2)Axicon
 
 ![](/lbsa/assets/images/Axicon_subsection.png)
 

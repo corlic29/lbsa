@@ -4,7 +4,7 @@ layout: default
 parent: Beam shaping
 nav_order: 3
 ---
-##### [](#header-2)Gerchberg-Saxton Correction
+## [](#header-2)Gerchberg-Saxton Correction
 
 In this section, the process of correcting the optical setup with the built-in Gerchberg-Saxton iterative algorithm and the optical vortex image will be introduced. The panel responsible for adjusting algorithm parameters is presented below:
 
@@ -36,8 +36,8 @@ However, the user will have to use the `optical vortex`, `blazed grating` and `a
 7.  Set the no. of iterations. Typically, 4-10 iterations are enough to produce sufficient results.
 
 ![](/lbsa/assets/images/GS_iterations.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 8.  Click the ‘Set up’ button to prepare the algorithm. The `optical vortex` and `aperture` functions should be turned on, with `blazed grating` left as off. The LBSA will add the 1st blazed grating and capture the first image, then will repeat the process with the 2nd grating. 
 9.  In the next steps, two images will be displayed, the user has to point and click the central position of the vortex. By default, each image is set into zoom mode, the first click will ‘zoom in’ to help the user determine the center of the beam. After the proper zoom is achieved, the `enter` button on the keyboard stops the zoom mode and will let the user click on the vortex’ center. Below two images of the vortex are shown, respectively. The vortex center at each image is set pointed out using the cross pointer. 
 

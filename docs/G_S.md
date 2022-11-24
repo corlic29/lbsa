@@ -4,7 +4,7 @@ layout: default
 parent: Beam shaping
 nav_order: 3
 ---
-##### [](#header-4)Gerchberg-Saxton Correction
+##### [](#header-2)Gerchberg-Saxton Correction
 
 In this section, the process of correcting the optical setup with the built-in Gerchberg-Saxton iterative algorithm and the optical vortex image will be introduced. The panel responsible for adjusting algorithm parameters is presented below:
 
@@ -25,14 +25,14 @@ However, the user will have to use the `optical vortex`, `blazed grating` and `a
 1.  Choose `Axes` (x or y), to determine which of the `blazed grating` parameter was modified. For the best performance, we suggest not using the diagonal grating, therefore we limit possible options to either x or y grating shift. If diagonal grating is required, one can adjust the no. of grooves of the other component so that it’ll remain stable when switching from the 1st to 2nd grating. The exemplary case is presented below:
 
 ![](/lbsa/assets/images/GS_grating.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 5.  Turn the `blazed grating` to off state and refresh the hologram using the `start` button. The vortex image should disappear on the camera. 
 6.  Choose the size of the aperture that should be used for an algorithm. It impacts the calculation time. The smaller the diameter of the aperture, the faster the algorithm. Usually, the quarter aperture, defined as the quarter of the diameter used to produce a vortex image, delivers sufficient results, however with the loss of hologram quality. 
 
 ![](/lbsa/assets/images/GS_aperture.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 7.  Set the no. of iterations. Typically, 4-10 iterations are enough to produce sufficient results.
 
 ![](/lbsa/assets/images/GS_iterations.png)
@@ -44,8 +44,8 @@ However, the user will have to use the `optical vortex`, `blazed grating` and `a
 ![](/lbsa/assets/images/Ginput_1_cropped.png)
 
 ![](/lbsa/assets/images/Ginput_2_cropped.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 10.  Application will calculate the size of the matrix (edit field `Padding [px]`), required for simulation. This size depends on the distance between two vortices produced by the proposed blazed gratings. 
 
 If the size of the matrix will exceed 11000, the whole procedure may be time-consuming. Therefore it is suggested to keep it below 11000. One may reduce this number by reducing further reducing the aperture and starting again from step no. 6. 
@@ -53,18 +53,18 @@ If the size of the matrix will exceed 11000, the whole procedure may be time-con
 11.  If all parameters are properly defined, the panel should resemble the example below:
 
 ![](/lbsa/assets/images/GS.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 12.  The `G-S` button will start the algorithm. In the first step, the function will capture the vortex image using the 1st blazed grating and let the user determine the size of the vortex. This will be done analogically to step 11, this time user will have to point to the center of the image (1st click after the zoom mode) and then to the side of the beam (2nd click on the left or right):
 
 ![](/lbsa/assets/images/GS_clicks.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 13.  In the final step, LBSA will determine the correction image using the built-in algorithm. This takes a few minutes, depending on the computer parameters. The final hologram will be displayed below the panel, simultaneously, the no. of iteration next to the `G-S` button will match the value chosen in step 7.
 
 ![](/lbsa/assets/images/GS_final.png)
-{:style="counter-reset:none"}
 
+{:style="counter-reset:none"}
 14.  Such an image should be subtracted from the currently displayed hologram. To do so, the user has to choose minus in the `Load correction` section and enable `on` mode. Simultaneously, the `blazed grating` together with the `optical vortex` and `aperture` should be turned on to produce the corrected vortex image:
 
 ![](/lbsa/assets/images/Corrected.png)

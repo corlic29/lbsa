@@ -6,16 +6,23 @@ nav_order: 2
 ---
 ## [](#header-2)Camera
 
-The properly detected SLM should be indicated by the green diode, followed by the resolution of an SLM, as well as the label _Connected_ beneath it. The push button _Create_ serves as a tool, to re-check if SLM is connected/disconnected. Additionally, the list box provides an option to select the available camera.
+This component is responsible for the app-camera connection. This is initiated simultaneously with the start of an app. The component first determines if the Image Acquisition Toolbox is present in the used version of the MATLAB software.
+Together with that, the app runs through each of the available add-on camera adapter, that enables connection with the camera. Such an add-on has to be installed separately according to the camera manufacturer's documentation, regarding camera operation through MATLAB.
 
-Central push buttons (_start_, _save_, and _snapshot_) are responsible for communication with external hardware. In particular, _start_ forces the recalculation of the currently displayed hologram, in case any parameter has been modified. _Save_ allows the user to export the currently displayed hologram as an external image file and finally _snapshot_ initiates the screenshot of the image currently captured by the camera, which can be saved on the computer hard drive. 
+![](./assets/images/Initation.png)
 
-The toggle button _Auto update_ switches between auto/manual mode. By default, the app operates in manual mode, which requires updating the hologram manually, through the _Start_ button. The auto-update performs the update automatically. 
+The step-by-step notifications of this process are displayed in the command line:
 
-SLM Screen provides insights into the structure of the hologram currently displayed on the SLM. This will also remain active, even if the SLM is not connected, allowing to use of the LBSA independently, as a hologram designing software.
+![](./assets/images/Command_line.png)
 
+After the initiation, the user will be able to select one of the active camera adapters:
 
-![](./assets/images/Control.png){: .center-image }
+![](./assets/images/Initation_2.png)
 
+Which successfully opens the app preview. In the last process, the user has to select the proper camera resolution in the camera selection toolbar:
+
+![](./assets/images/Camera_selection.png)
+
+This opens the new window with the live camera preview.
 
 ----

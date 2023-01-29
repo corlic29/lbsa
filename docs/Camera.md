@@ -25,4 +25,10 @@ Which successfully opens the app preview. In the last process, the user has to s
 
 This opens the new window with the live camera preview.
 
+User can easily modify camera parameters, such as brightness, contrast, expsoure or gain. To do so, once the preview is open, user has to click the Options push botton, which will open a new pop-up window, where these parameters can be modified: 
+
+![](./assets/images/Options.png)
+
+Once these parameters are set, the Ok push button updates their values. User can modify each parameter either through the edit field or using the slider just next to it.
+
 ----

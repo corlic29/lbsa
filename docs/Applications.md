@@ -8,13 +8,15 @@ has_children: false
 
 Below, we present few examples where we used the LBSA and its features to show the versatility of the presented software.
 
-[a link](https://doi.org/10.1364/OE.422736)
+
 
 1) Adaptive optics / beam correction 
 
-In <a href="[url](https://doi.org/10.1364/OE.422736)">link text</a>
+
 
 2) Fiber modes excitation
+In [1](https://doi.org/10.1364/OE.422736) we used the software to selectively excite higher-modes in optical fibers. The purpose of this was to measure the chromatic dispersion in single mode optical fibers, which enables dispersion measurements in higher-order modes over a wide spectral range. The examplary 
+
 
 3) 
 

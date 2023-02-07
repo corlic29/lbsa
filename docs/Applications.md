@@ -18,7 +18,7 @@ The LBSA correction and transformation features are the outcome of our work [1](
 2) Fiber modes excitation
 In [2](https://doi.org/10.1364/OE.422736) we used the software to selectively excite higher-modes in optical fibers. The purpose of this was to measure the chromatic dispersion in single mode optical fibers, which enables dispersion measurements in higher-order modes over a wide spectral range. The examplary image presents few of the excited modes without (left) and with (right) filter, to show the wide spectral range of the excited mode.
 
-![](/lbsa/assets/images/Higher_modes.jpg)
+![](/lbsa/assets/images/Higher_modes2.jpg)
  
 
 3) 

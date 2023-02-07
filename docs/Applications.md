@@ -9,7 +9,7 @@ has_children: false
 Below, we present few examples where we used the LBSA and its features to show the versatility of the presented software.
 
 
-1) Adaptive optics / beam correction
+1) Adaptive optics / beam correction https://doi.org/10.1364/OE.422736
 
 In <a href="[url](https://doi.org/10.1364/OE.422736)">link text</a>
 

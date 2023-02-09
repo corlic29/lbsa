@@ -16,15 +16,17 @@ The LBSA correction and transformation features are the outcome of our [work](ht
 
 2) Manual aberration control
 
-In the same work 
+In the same [work](http://doi.org/10.1016/j.optlaseng.2019.01.014) we evaluated the quality of various beams through the proposed optical vortex trajectory. To manually controll the aberration value we incorporated the LBSA Zernike component that modified the quality of the beam in a cotrollable manner. Below we present exemplary beams, distrubed by the artificially introduced aberration:
 
-2) Fiber modes excitation
+Similar concept we repeated in the work xxxx. Here we proposed simple geometric metrics to evaluate such quality. Each time particular distrubance was introduced through the LBSA and its functions.
+
+
+3) Fiber modes excitation
 
 In [this](https://doi.org/10.1364/OE.422736) paper we used the software to selectively excite higher-modes in optical fibers. The purpose of this was to measure the chromatic dispersion in single mode optical fibers, which enables dispersion measurements in higher-order modes over a wide spectral range. The examplary image presents few of the excited modes without (left) and with (right) filter, to show the wide spectral range of the excited mode.
 
 ![](/lbsa/assets/images/Higher_modes2.jpg)
  
 
-3) 
 
 ----
